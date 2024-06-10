@@ -1,0 +1,8 @@
+#Ignorando target
+target
+
+#ignorando .vscode
+.vscode/
+
+#Ignorando PPTX
+#Java - Aula 05.pptx
